@@ -1,5 +1,4 @@
-```markdown
-# iCoder – Heaven For Programmers 👨‍💻💡
+## iCoder – Heaven For Programmers 👨‍💻💡
 
 Welcome to **iCoder**, a modern and responsive blogging website for developers, tech enthusiasts, and curious learners.  
 This project is built using **HTML**, **CSS**, and **Bootstrap** to deliver a sleek UI and smooth user experience.
@@ -80,8 +79,3 @@ Feel free to:
 This project is open-source and available under the **MIT License**.
 
 ---
-
-💬 If you like this website or want more features, drop a ⭐ on the repository!
-
-Happy Coding ✨👨‍💻🔥
-```
