@@ -56,8 +56,7 @@ iCoderblog/
 1. Clone the repository
    ```bash
    git clone https://github.com/mohitkumar2217/iCoderblog.git
-````
-
+   
 2. Open `index.html` in any web browser
 3. You're ready to explore iCoder!
 
