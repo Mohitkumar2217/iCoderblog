@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/png" href="assets/icon.png">
+    <link rel="icon" type="image/png" href="assets/icon.png" />
     <title>iCoder - heaven for Programmers</title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
@@ -81,8 +81,13 @@
               type="search"
               placeholder="Search"
               aria-label="Search"
+              id="searchInput"
             />
-            <button class="btn btn-outline-warning text-white" type="submit">
+            <button
+              class="btn btn-outline-warning text-white"
+              type="submit"
+              onclick="alert('Searching... feature coming soon!')"
+            >
               Search
             </button>
           </form>
@@ -166,7 +171,7 @@
       </div>
     </div>
     <!-- Sign Up Modal -->
-<div
+    <div
       class="modal fade"
       id="signupModal"
       tabindex="-1"
@@ -198,11 +203,11 @@
             </div>
             <div class="form-floating">
               <input
-              type="password"
-              id="inputPassword6"
-              class="form-control"
-              placeholder="Password"
-              aria-describedby="passwordHelpInline"
+                type="password"
+                id="inputPassword6"
+                class="form-control"
+                placeholder="Password"
+                aria-describedby="passwordHelpInline"
               />
               <label for="inputPassword6">Password</label>
               <span id="passwordHelpInline" class="form-text">
